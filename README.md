@@ -1,4 +1,4 @@
-mule-configuration-reference
+Mule Configuration Reference
 ============================
 
 Reference for Mule configuration
